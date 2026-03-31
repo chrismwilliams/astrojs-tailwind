@@ -1,7 +1,7 @@
 {
   "name": "astrojs-tailwind",
   "description": "Use Tailwind CSS v3 to style your Astro site",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "types": "./dist/index.d.ts",
   "license": "MIT",
