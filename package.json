@@ -1,5 +1,5 @@
 {
-  "name": "astrojs-tailwind",
+  "name": "@digital-zombie/astrojs-tailwind",
   "description": "Use Tailwind CSS v3 to style your Astro site",
   "version": "1.0.1",
   "type": "module",
