@@ -4,9 +4,9 @@ A fork of the now-deprecated [@astrojs/tailwind](https://github.com/withastro/as
 
 ## Installation
 ```sh
-npm install astrojs-tailwind tailwindcss@^3
-pnpm add astrojs-tailwind tailwindcss@^3
-yarn add astrojs-tailwind tailwindcss@^3
+npm install @digital-zombie/astrojs-tailwind tailwindcss@^3
+pnpm add @digital-zombie/astrojs-tailwind tailwindcss@^3
+yarn add @digital-zombie/astrojs-tailwind tailwindcss@^3
 ```
 
 ## Usage
