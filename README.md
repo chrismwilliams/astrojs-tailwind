@@ -4,16 +4,16 @@ A fork of the now-deprecated [@astrojs/tailwind](https://github.com/withastro/as
 
 ## Installation
 ```sh
-npm install @digital-zombie/astrojs-tailwind tailwindcss@^3
-pnpm add @digital-zombie/astrojs-tailwind tailwindcss@^3
-yarn add @digital-zombie/astrojs-tailwind tailwindcss@^3
+npm install @digital-zombie/astrojs-tailwind
+pnpm add @digital-zombie/astrojs-tailwind
+yarn add @digital-zombie/astrojs-tailwind
 ```
 
 ## Usage
 ```js
 // astro.config.mjs
-import { defineConfig } from 'astro/config';
-import tailwind from 'astrojs-tailwind';
+import { defineConfig } from "astro/config";
+import tailwind from "@digital-zombie/astrojs-tailwind";
 
 export default defineConfig({
   integrations: [tailwind()],
